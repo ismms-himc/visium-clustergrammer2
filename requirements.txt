@@ -7,4 +7,4 @@ pandas
 scikit-learn
 ipywidgets
 matplotlib
-clustergrammer2==0.5.14
+clustergrammer2==0.5.15
