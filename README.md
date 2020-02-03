@@ -25,8 +25,6 @@ Adeeb Rahman
 
 Manuel Garcia-Quismondo
 
-## Contact
+## Contact and Feedback
 
-nicolas.fernandez@mssm.edu
-
-[Gitter Discussion Board](https://gitter.im/clustergrammer2)
+Please contact us through the [Gitter Discussion Board](https://gitter.im/clustergrammer2) or [issue tracker](https://github.com/ismms-himc/visium-clustergrammer2/issues) with questions comments or concerns.
