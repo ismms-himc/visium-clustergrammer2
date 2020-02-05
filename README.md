@@ -31,6 +31,9 @@ Adeeb Rahman
 
 Manuel Garcia-Quismondo
 
+## Tutorial Video
+[![visium-clustergrammer2](http://img.youtube.com/vi/eGDZA-xm_oc/0.jpg)](http://www.youtube.com/watch?v=eGDZA-xm_oc)
+
 ## Contact and Feedback
 
 Please contact us through the [Gitter Discussion Board](https://gitter.im/clustergrammer2) or [issue tracker](https://github.com/ismms-himc/visium-clustergrammer2/issues) with questions comments or concerns.
