@@ -1,6 +1,8 @@
 # Visium-Clustergrammer2
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismms-himc/visium-clustergrammer2/master?urlpath=voila%2Frender%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](http://bit.ly/visium-clustergrammer2)
+
+
 
 
 
@@ -16,6 +18,7 @@ Similarly to the [Seurat spatial vignette](https://satijalab.org/seurat/v3.1/spa
 ## References
 This project was influenced by the [Seurat spatial vignette](https://satijalab.org/seurat/v3.1/spatial_vignette.html) from the [Satija lab](https://satijalab.org/) and we are very grateful for thier public examples.
 
+MyBinder [link](https://mybinder.org/v2/gh/ismms-himc/visium-clustergrammer2/master?urlpath=voila%2Frender%2Findex.ipynb) 
 
 
 ## Contributors
