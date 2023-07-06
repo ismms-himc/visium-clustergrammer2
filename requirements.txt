@@ -1,5 +1,5 @@
 bqplot==0.11.5
-scipy==1.1.0
+scipy==1.10.0
 voila==0.1.20
 voila-gridstack
 numpy
